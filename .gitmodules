@@ -1,3 +1,0 @@
-[submodule "vendor/claude-skills-databricks"]
-	path = vendor/claude-skills-databricks
-	url = https://github.com/ruhaanshinde-8451/claude-skills-databricks.git
