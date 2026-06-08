@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      { "tool": "Bash", "description": "Databricks CLI commands only" }
+    ],
+    "deny": [
+      { "tool": "WebFetch", "description": "No external network calls" }
+    ]
+  }
+}
